@@ -1,6 +1,6 @@
 # Egor | Python Developer | Research Engineer | Musician 🧪
 
-- 🔍 I'm currently working in [Marketgurad](https://marketguard.io) - The plug-and-play AML and KYC solution provider
+- 🔍 I'm currently working in [Marketguard](https://marketguard.io) - The plug-and-play AML and KYC solution provider
 - 🔭 I’ve worked on [Chainbench](https://github.com/chainstacklabs/chainbench) - A tool for blockchain infrastructure benchmarking
 - 📫 Reach me on [Telegram](https://t.me/emolodik), [LinkedIn](https://www.linkedin.com/in/emolodik/) or via an [email](mailto:ave2me.work@gmail.com).
 
