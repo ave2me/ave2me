@@ -1,9 +1,8 @@
 # Egor | Python Developer | Research Engineer | Musician 🧪
 
-> ⚡️ I'm open to new work opportunities. Contact me on [LinkedIn](https://www.linkedin.com/in/emolodik/).
-
-- 🔭 I’m currently working on [Chainbench](https://github.com/chainstacklabs/chainbench) - A tool for blockchain infrastructure benchmarking
-- 📫 Reach me on [Telegram](https://t.me/emolodik) or via an [email](mailto:ave2me.work@gmail.com).
+- 🔍 I'm currently working in [Marketgurad](https://marketguard.io) - The plug-and-play AML and KYC solution provider
+- 🔭 I’ve worked on [Chainbench](https://github.com/chainstacklabs/chainbench) - A tool for blockchain infrastructure benchmarking
+- 📫 Reach me on [Telegram](https://t.me/emolodik), [LinkedIn](https://www.linkedin.com/in/emolodik/) or via an [email](mailto:ave2me.work@gmail.com).
 
 <!--
 **ave2me/ave2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
